@@ -1,0 +1,1 @@
+global Ap Bp Cp Dp
